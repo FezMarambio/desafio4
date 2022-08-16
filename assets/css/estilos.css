@@ -1,0 +1,71 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #ffffff;
+    font-weight: lighter;
+    text-align: justify;
+}
+
+.navbar-toggler .custom-toggler {
+    border-color: #707070;
+}
+
+.nav-color-fondo {
+    background-color: #28a745;
+}
+
+.logo-touccon {
+    height: 50px;
+}
+
+.logo-touccon-colores {
+    height: 60px;
+}
+
+.carousel-item {
+    image-rendering:optimizeSpeed;
+    object-fit: cover;
+    height: 350 px;
+
+}
+
+.card {
+    width: 100%;
+    margin: auto;
+    border-color: #DDDDDD;
+}
+
+/* .card-title {
+    font-weight: bold;
+
+} */
+
+.card-place {
+    font-weight: bolder;
+}
+
+.card-address {
+    font-weight: lighter;
+}
+
+.precio-real {
+    text-decoration: line-through;
+    color: #707070;
+    font-style: italic;
+    font-weight: lighter;
+    font-size: smaller;
+}
+
+
+.form-control {
+    font-weight: lighter;
+}
+
+
+.precio-touccon {
+    font-weight: bold;
+    color: #28a745;
+}
+
+.final {
+    font-size: xx-small;
+}
